@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="life_0">Life : 0</string>
+    <string name="word">Word</string>
+</resources>
